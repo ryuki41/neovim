@@ -1,0 +1,3 @@
+return {
+  { "takavfx/dailynote.vim" },
+}
